@@ -22,6 +22,7 @@ print(total)
 
 ## Output
 
+![image](https://github.com/user-attachments/assets/7dd5176d-6d7c-4e92-b93b-7908a1e68f96)
 
 ## Result
 Thus,the program has been executed successfully.
