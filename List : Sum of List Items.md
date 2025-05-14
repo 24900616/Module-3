@@ -1,5 +1,10 @@
 # List Operations in Python: Sum of List Items
 
+NAME: Swetha K
+
+REG NO: 212224230284
+
+
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 
@@ -9,9 +14,14 @@ To write a Python program that calculates the **sum of all elements** in a list.
 3. Print the result.
 
 ## 🧾 Program
-
-Add code here
+```
+list=[1,2,-8]
+total=sum(list)
+print(total)
+```
 
 ## Output
 
+
 ## Result
+Thus,the program has been executed successfully.
