@@ -17,9 +17,6 @@ To write a Python program to check whether the string `"google"` is a **palindro
 
 ## 🧾 Program
 ```
-DEVELOPED BY: Bavya Sri.B
-REGISTER NO: 212224230034
-
 string="google"
 if string==string[::-1]:
    print ("The entered string is palindrome") 
